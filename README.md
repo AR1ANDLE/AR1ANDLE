@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Moughit
 
-<!--
-**AR1ANDLE/AR1ANDLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer in Progress | YouCode Student | Morocco
 
-Here are some ideas to get you started:
+I enjoy turning ideas into functional, well-designed applications. I'm passionate about web development, problem-solving, and understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing my skills through hands-on projects, collaborative work, and continuous learning at **YouCode**.
+
+---
+
+## About Me
+
+- Currently studying software development at **YouCode**.
+- Focused on building modern, responsive web applications.
+- Believe in learning by building, experimenting, and solving real problems.
+- Open to collaboration, internships, and opportunities to grow as a developer.
+
+## Tech Stack
+
+**Languages**
+- JavaScript
+- HTML5
+- CSS3
+- Python
+
+**Frontend**
+- React
+- Tailwind CSS
+- Bootstrap
+
+**Tools & Workflow**
+- Git & GitHub
+- VS Code
+- Figma
+- Jira
+
+*Explore my repositories for more projects and experiments.*
+
+## Currently Learning
+
+- Advanced React concepts and application architecture.
+- Clean code, software architecture, and development best practices.
+---
+
+*Building projects, learning through experience, and getting better with every commit.*
