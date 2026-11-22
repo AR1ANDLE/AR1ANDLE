@@ -1,45 +1,48 @@
-# Hi, I'm Moughit
+# Hey there, I'm Moughit
 
-### Full-Stack Developer in Progress | YouCode Student | Morocco
-
-I enjoy turning ideas into functional, well-designed applications. I'm passionate about web development, problem-solving, and understanding how things work under the hood.
-
-Currently developing my skills through hands-on projects, collaborative work, and continuous learning at **YouCode**.
+### Full-Stack Developer in Progress · YouCode Student 🇲🇦
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Currently studying software development at **YouCode**.
-- Focused on building modern, responsive web applications.
-- Believe in learning by building, experimenting, and solving real problems.
-- Open to collaboration, internships, and opportunities to grow as a developer.
+### About Me
 
-## Tech Stack
+Passionate about building useful applications and solving real-world problems through code.
+
+Currently studying at **YouCode**, focusing on web development, software architecture, and hands-on projects.
+
+</td>
+<td width="50%" valign="top">
+
+### Tech Stack
 
 **Languages**
-- JavaScript
-- HTML5
-- CSS3
-- Python
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css" height="30" />
+
+JavaScript · Python · HTML5 · CSS3
 
 **Frontend**
-- React
-- Tailwind CSS
-- Bootstrap
 
-**Tools & Workflow**
-- Git & GitHub
-- VS Code
-- Figma
-- Jira
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="30" />
 
-*Explore my repositories for more projects and experiments.*
+React · Tailwind CSS · Bootstrap
 
-## Currently Learning
+**Tools**
 
-- Advanced React concepts and application architecture.
-- Clean code, software architecture, and development best practices.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="30" />
+
+Git · GitHub · VS Code · Figma · Jira
+
+</td>
+</tr>
+</table>
+
 ---
 
-*Building projects, learning through experience, and getting better with every commit.*
+<p align="center">
+  <sub>Building, learning, and improving one commit at a time.</sub>
+</p>
